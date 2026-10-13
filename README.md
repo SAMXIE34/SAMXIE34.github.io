@@ -7,3 +7,4 @@ Static GitHub Pages site, published from the main branch at the repository root.
 Project websites are hosted independently:
 - https://compliant-wrist.github.io/
 - https://fluorescent-whisker.github.io/
+- https://fbg-whisker-cfd.github.io/ (FBG Whisker CFD, linked as "CFD" from the FBG Whisker entry)
