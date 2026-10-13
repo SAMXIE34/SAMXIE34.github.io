@@ -196,6 +196,11 @@ section {
   font-size: 14.5px;
   line-height: 1.45;
 }
+.research-copy .authors strong {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
 .venue {
   font-size: 14.5px;
   font-style: italic;
