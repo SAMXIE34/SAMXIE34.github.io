@@ -212,6 +212,21 @@ section {
   font-size: 12.5px;
   color: var(--muted);
 }
+.status-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 0 9px;
+  border: 1px solid #e6cf9a;
+  border-radius: 999px;
+  background: #fbf1d6;
+  color: #7a4d0c;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  vertical-align: 1px;
+}
 .paper-links {
   font-size: 14.5px;
 }
